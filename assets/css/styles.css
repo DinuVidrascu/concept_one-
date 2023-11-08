@@ -617,12 +617,12 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 420px) {
   .container {
     margin-inline: 1rem;
   }
 
-  v .home__img {
+  .home__img {
     width: 180px;
   }
 
