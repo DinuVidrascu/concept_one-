@@ -91,7 +91,7 @@ sr.reveal(`.home__social, .favorite__container, .sponsor__container, .footer`)
 sr.reveal(`.home__title span:nth-child(1)`, { origin: 'left', opacity: 1 })
 sr.reveal(`.home__title span:nth-child(3)`, { origin: 'right', opacity: 1 })
 sr.reveal(`.home__title span:nth-child(2)`, { origin: 'top', opacity: 1 })
-sr.reveal(`.home__tooltip, .home__button, .model__button`, {origin: 'bottom'})
+sr.reveal(`.home__tooltip, .home__button, .model__button, .home__img`, {origin: 'bottom'})
 sr.reveal(`.about__data`, {origin: 'left'})
 sr.reveal(`.about__img, .model__tooltip`, {origin: 'right'})
 
