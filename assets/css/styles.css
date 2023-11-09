@@ -64,7 +64,7 @@ html {
 body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  background-color: var(--body-color);
+  background-image: url(../img/bg.jpg);
   color: var(--text-color);
 }
 
@@ -617,7 +617,7 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 4a20px) {
   .container {
     margin-inline: 1rem;
   }
